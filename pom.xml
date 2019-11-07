@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.javacodegeeks</groupId>
 	<artifactId>junitreportgeneration</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>01.0</version>
 	<name>JUnit Report Generation Example</name>
 	<description>How to generate JUnit Reports</description>
 
